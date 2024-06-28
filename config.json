@@ -1,0 +1,18 @@
+{
+    "switch": "on",
+    "pref": "on",
+    "language": "en",
+    "api_key": "AIzaSyCJY9pspvdjybDE9r2GZkgdeXvw2O6rTzU",
+    "login_info": {
+        "email": "",
+        "password": "",
+        "idToken": "",
+        "localId": "",
+        "refreshToken": "",
+        "rawId": "",
+        "lastLoginAt": "",
+        "createdAt": "",
+        "emailVerified": "",
+        "key": ""
+    }
+}

@@ -1,0 +1,1 @@
+"# GPT-WHATSAPP"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/wmm-x/GPT-WHATSAPP.gitgit push -u origin main

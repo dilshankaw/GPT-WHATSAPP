@@ -4,6 +4,7 @@
 <p align="center">
 
 
+------
 <p align="center">
 GPT WHATSAPP BOT developed by <a href="https://github.com/wmm-x" target="_blank">WMMM-X</a> using <a href="https://github.com/WhiskeySockets/Baileys" target="_blank">Baileys API</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>.
 </p>
@@ -17,8 +18,6 @@ Big thanks ❤️ to <a href="https://github.com/DGXeon" target="_blank">DGXeon<
 Special thanks for allowing me to use some of the base code from CheemsBot-MD6, which has been invaluable in developing this project.
 </p>
 
-
----
 
 
 ------

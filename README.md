@@ -22,7 +22,6 @@ Special thanks for allowing me to use some of the base code from CheemsBot-MD6, 
 ---
 
 
-
 ------
 
 # ```Bot Info```
@@ -42,12 +41,12 @@ Special thanks for allowing me to use some of the base code from CheemsBot-MD6, 
 # Install Manually 👇
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
 
 ## `Clone Repo & Installation dependencies`
 ```bash
 git clone https://github.com/wmm-x/GPT-WHATSAPP.git
 cd GPT-WHATSAPP
-
 npm start
 ```
 ## `For Termux/Ssh/Ubuntu`

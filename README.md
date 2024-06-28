@@ -36,7 +36,7 @@ Special thanks for allowing me to use some of the base code from CheemsBot-MD6, 
 <p>afret set up scan qr and login  after that send message "menu"or "cmd" to get starcmmand list</p>
 
 
-# Install Manually 👇
+# Install 👇
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
